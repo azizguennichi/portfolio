@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b028f2ff.css",
+    "main.js": "/portfolio/static/js/main.b4806d67.js",
+    "static/media/commerce.jpeg": "/portfolio/static/media/commerce.4beb4dd4ac2941f976d1.jpeg",
+    "static/media/netflix.png": "/portfolio/static/media/netflix.3ef5d2baa9a3c2a5205a.png",
+    "static/media/automobile.png": "/portfolio/static/media/automobile.6f8cdf39804ec2346183.png",
+    "static/media/cv.png": "/portfolio/static/media/cv.db3fc8017bad00c60e43.png",
+    "static/media/fb.jpg": "/portfolio/static/media/fb.cc82b61456f20fb2f443.jpg",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.b028f2ff.css.map": "/portfolio/static/css/main.b028f2ff.css.map",
+    "main.b4806d67.js.map": "/portfolio/static/js/main.b4806d67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b028f2ff.css",
+    "static/js/main.b4806d67.js"
+  ]
+}
