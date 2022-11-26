@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.90ec55d7.css",
-    "main.js": "/portfolio/static/js/main.c585906f.js",
+    "main.css": "/portfolio/static/css/main.92dd2260.css",
+    "main.js": "/portfolio/static/js/main.feee8755.js",
     "static/media/commerce.jpeg": "/portfolio/static/media/commerce.4beb4dd4ac2941f976d1.jpeg",
-    "static/media/netflix.png": "/portfolio/static/media/netflix.3ef5d2baa9a3c2a5205a.png",
-    "static/media/automobile.png": "/portfolio/static/media/automobile.6f8cdf39804ec2346183.png",
+    "static/media/game.png": "/portfolio/static/media/game.7d6afe95ff422164f527.png",
+    "static/media/styled.png": "/portfolio/static/media/styled.7efe67a15ed4d2baa1e7.png",
+    "static/media/freelanc.png": "/portfolio/static/media/freelanc.d07ee66b8b0c704433f3.png",
     "static/media/cv.png": "/portfolio/static/media/cv.db3fc8017bad00c60e43.png",
     "static/media/fb.jpg": "/portfolio/static/media/fb.cc82b61456f20fb2f443.jpg",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -14,11 +15,11 @@
     "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.90ec55d7.css.map": "/portfolio/static/css/main.90ec55d7.css.map",
-    "main.c585906f.js.map": "/portfolio/static/js/main.c585906f.js.map"
+    "main.92dd2260.css.map": "/portfolio/static/css/main.92dd2260.css.map",
+    "main.feee8755.js.map": "/portfolio/static/js/main.feee8755.js.map"
   },
   "entrypoints": [
-    "static/css/main.90ec55d7.css",
-    "static/js/main.c585906f.js"
+    "static/css/main.92dd2260.css",
+    "static/js/main.feee8755.js"
   ]
 }
